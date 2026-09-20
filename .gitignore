@@ -3,3 +3,7 @@ auto-save-list/
 elpa/
 org-persist/
 *.eld # just for now
+
+*~
+\#*\#
+.\#*
